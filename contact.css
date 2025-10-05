@@ -1,0 +1,49 @@
+a{
+    text-decoration: none;
+}
+
+.header{
+   background-color: rgb(145, 236, 145);
+   height: 100px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+padding: 20px;
+}
+
+.header-text{
+    font-size: 40px;
+    color: rgb(61, 5, 87);
+    display: flex;  
+}
+
+
+footer{
+    background-color: lightblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 150px;
+}
+
+.first-section{
+    background-color: rgb(253, 181, 253);
+    padding: 20px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    gap: 10px;
+}
+
+.contact-text{
+    font-size: 30px;
+}
+
+.list{
+    font-size: 20px;
+}
